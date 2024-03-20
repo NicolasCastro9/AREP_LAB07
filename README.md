@@ -76,3 +76,28 @@ https://localhost:5000/
 
 ![image](https://github.com/NicolasCastro9/AREP_LAB07/assets/98556822/4a443ff8-8536-49d5-a5f3-30241d9683e3)
 
+
+
+# ARQUITECTURA Y DISEÑO:
+![image](https://github.com/NicolasCastro9/AREP_LAB07/assets/98556822/c40719f0-11ee-424f-b445-021811f9aaf8)
+
+
+# Despliegue AWS
+
+# Construido con
+
+Java: plataforma informática de lenguaje de programación
+
+SparkJava: microframework web para Java que facilita la creación de aplicaciones web simples y rápidas
+
+MongoDB: base de datos NoSQL orientada a documentos
+
+Maven: framework de gestión de proyectos de software
+
+Docker: sistema operativo para contenedores
+
+# Autor
+Nicolas Castro Jaramillo
+
+# Licencia
+Este proyecto está bajo la licencia MIT.
