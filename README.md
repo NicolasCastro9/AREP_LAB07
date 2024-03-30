@@ -76,6 +76,11 @@ https://localhost:5000/
 
 ![image](https://github.com/NicolasCastro9/AREP_LAB07/assets/98556822/4a443ff8-8536-49d5-a5f3-30241d9683e3)
 
+8 Generamos el javadoc
+
+```
+mvn javadoc:javadoc
+```
 
 
 # ARQUITECTURA Y DISEÑO:
@@ -83,6 +88,8 @@ https://localhost:5000/
 
 
 # Despliegue AWS
+
+https://github.com/NicolasCastro9/AREP_LAB07/assets/98556822/0e3c3d56-57d4-44d7-869b-dfc34fea235a
 
 # Construido con
 
